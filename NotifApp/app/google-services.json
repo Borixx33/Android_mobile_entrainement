@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "385505718775",
+    "firebase_url": "https://notifapp-680ba.firebaseio.com",
+    "project_id": "notifapp-680ba",
+    "storage_bucket": "notifapp-680ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385505718775:android:ef5695e2deb12e38",
+        "android_client_info": {
+          "package_name": "com.example.notifapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385505718775-tkrr0q140cjtupba7uoep8th60d6s1e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notifapp",
+            "certificate_hash": "32b9295061306b01ce94dce980c6b837d8c00be5"
+          }
+        },
+        {
+          "client_id": "385505718775-5i9s6dtan1i9l7d6nrm37psil2doemud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyYLs_wBCXCWDYOiAMBS4JGp-C8t9OvdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385505718775-5i9s6dtan1i9l7d6nrm37psil2doemud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
